@@ -1,0 +1,28 @@
+SARA JOHANSSON
+Email: sara.j@example.com | Phone: +1 (555) 987-6543
+Location: Seattle, WA | Portfolio: sarajohansson.dev
+
+PROFESSIONAL SUMMARY
+Frontend & Web Developer with 2 years of experience specializing in React, HTML, CSS, and basic Node.js backend integration. Passionate about sleek UI/UX design, accessible components, and web performance. Seeking a software engineering role to grow full-stack capabilities.
+
+EXPERIENCE
+
+Web Developer | WebCraft Interactive (Seattle, WA)
+Mar 2023 – Present
+- Developed responsive marketing web pages and customer dashboards using React, HTML5, and CSS3.
+- Collaborated with UI designers to implement pixel-perfect Figma designs.
+- Integrated REST APIs built by backend team using Axios and fetch API.
+- Fixed 50+ cross-browser compatibility bugs and improved Web Vitals performance scores by 20%.
+
+Junior Developer Intern | TechStart Studio (Remote)
+Sep 2022 – Feb 2023
+- Assisted in building WordPress websites and simple Node.js microservices.
+- Wrote basic unit tests using Jest and React Testing Library.
+
+SKILLS
+- Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap
+- Backend & DB: Basic Node.js, Express, MySQL basics
+- Tools: Git, VS Code, Figma, npm
+
+EDUCATION
+B.A. in Digital Media & Web Design | Western Washington University (2018 – 2022)

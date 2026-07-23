@@ -1,0 +1,38 @@
+ALEX CHEN
+Email: alex.chen@example.com | Phone: +1 (555) 234-5678
+Location: San Francisco, CA | GitHub: github.com/alexchen-dev | LinkedIn: linkedin.com/in/alexchen-tech
+
+SUMMARY
+Senior Full Stack Engineer with 6 years of experience building high-scale SaaS web applications, REST APIs, and GenAI integrations. Expert in Python (FastAPI, Django), React, TypeScript, and AWS cloud architecture. Demonstrated track record of leading cross-functional teams and accelerating product delivery.
+
+WORK EXPERIENCE
+
+Senior Full Stack Engineer | CloudScale Tech (San Francisco, CA)
+Jan 2022 – Present
+- Led a team of 4 engineers in re-architecting legacy monolithic application into FastAPI microservices, reducing p99 latency by 45%.
+- Built interactive React + TypeScript analytics dashboards used by over 120,000 active monthly users.
+- Integrated Groq and OpenAI API workflows with vector search (Qdrant) to build an automated customer support bot, saving 300+ support hours per month.
+- Optimized PostgreSQL database queries and implemented Redis caching, lowering DB server load by 35%.
+- Implemented automated CI/CD pipelines via GitHub Actions and deployed microservices on AWS ECS using Docker.
+
+Software Engineer | Apex Solutions (Austin, TX)
+Jun 2019 – Dec 2021
+- Developed RESTful APIs in Django and Python for e-commerce payment processing serving 50k requests/minute.
+- Built responsive UI components with React, Redux, and TailwindCSS.
+- Managed PostgreSQL database migrations, schema designs, and indexing strategies.
+- Participated in daily Agile standups, code reviews, and technical sprint planning.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, TypeScript, SQL, HTML5, CSS3
+- Frameworks & Libraries: FastAPI, Django, React.js, Next.js, Redux, Node.js
+- Databases & Storage: PostgreSQL, Redis, Qdrant, MongoDB
+- DevOps & Cloud: AWS (S3, ECS, Lambda), Docker, GitHub Actions, Linux
+- AI & GenAI: Groq API, OpenAI API, LangChain, Vector Embeddings
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley (2015 – 2019)
+GPA: 3.8 / 4.0 | Dean's Honors List
+
+CERTIFICATIONS & PROJECTS
+- AWS Certified Solutions Architect – Associate (2023)
+- Open Source Contributor: FastAPIExtensions (1.2k GitHub Stars)

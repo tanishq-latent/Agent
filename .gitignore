@@ -1,0 +1,17 @@
+# Environment secrets (protect API keys!)
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Mac OS system files
+.DS_Store
+
